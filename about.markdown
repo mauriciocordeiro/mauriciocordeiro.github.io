@@ -6,4 +6,4 @@ permalink: /about/
 
 Software developer since 2013.
 
-Check ou my [CV](http://www.cordeiro.tech/cv)!
+Check out my [CV](http://www.cordeiro.tech/cv)!

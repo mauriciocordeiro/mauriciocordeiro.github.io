@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+# Home Placeholder
+
+_A placeholder for home_
+
+
+---
+
+
