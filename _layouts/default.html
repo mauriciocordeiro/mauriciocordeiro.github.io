@@ -1,17 +1,27 @@
 <!DOCTYPE html>
-<!--
-    Type on Strap jekyll theme v2.2.4
-    Copyright 2016-2019 Sylhare
-    Theme free for personal and commercial use under the MIT license
-    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
--->
-<html lang="en">
+<html>
+
   {% include head.html %}
-  <body>
-    {% include navbar.html %}
-    <div class="content">
+
+  <body id="page-top">
+
       {{ content }}
-    </div>
-    {% include footer.html %}
+
+	  {% include footer.html %}
+
+	  <!-- Bootstrap core JavaScript -->
+	  <script src="assets/js/jquery.min.js"></script>
+	  <script src="assets/js/bootstrap.bundle.min.js"></script>
+
+	  <!-- Plugin JavaScript -->
+	  <script src="assets/js/jquery.easing.min.js"></script>
+
+	  <!-- Contact form JavaScript -->
+	  <script src="assets/js/jqBootstrapValidation.js"></script>
+	  <script src="assets/js/contact_me.js"></script>
+
+	  <!-- Custom scripts for this template -->
+	  <script src="assets/js/agency.min.js"></script>
+
   </body>
 </html>
